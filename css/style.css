@@ -468,6 +468,13 @@ section{
     border-top: var(--border);
     color:var(--black);
 }
+.cr{
+    font-size: 2rem;
+    text-align: center;
+    padding:2.5rem 1rem;
+    margin-top: 0.5rem;
+    color:var(--black);
+}
 
 .credits span{
     color: var(--green);
