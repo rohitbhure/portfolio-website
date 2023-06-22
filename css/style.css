@@ -463,7 +463,7 @@ section{
 .credits{
     font-size: 2rem;
     text-align: center;
-    padding:2.5rem 1rem;
+    padding:2rem 1rem;
     margin-top: 1rem;
     border-top: var(--border);
     color:var(--black);
@@ -471,7 +471,8 @@ section{
 .cr{
     font-size: 2rem;
     text-align: center;
-    padding:2.5rem 1rem;
+    padding:0.5rem 0.5rem;
+    text-transform: lowercase;
     margin-top: 0.5rem;
     color:var(--black);
 }
